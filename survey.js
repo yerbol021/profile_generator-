@@ -44,3 +44,6 @@ askQuestions(questions)
     Favourite Sport: ${profile[questions[5]]}
     Superpower: ${profile[questions[6]]}`);
   });
+
+
+//revised
